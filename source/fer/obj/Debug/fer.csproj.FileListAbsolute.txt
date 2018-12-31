@@ -1,0 +1,7 @@
+C:\Users\Nikita\source\repos\fer\fer\bin\Debug\fer.exe.config
+C:\Users\Nikita\source\repos\fer\fer\bin\Debug\fer.exe
+C:\Users\Nikita\source\repos\fer\fer\bin\Debug\fer.pdb
+C:\Users\Nikita\source\repos\fer\fer\obj\Debug\fer.csprojAssemblyReference.cache
+C:\Users\Nikita\source\repos\fer\fer\obj\Debug\fer.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\fer\fer\obj\Debug\fer.exe
+C:\Users\Nikita\source\repos\fer\fer\obj\Debug\fer.pdb

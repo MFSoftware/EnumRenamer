@@ -1,0 +1,6 @@
+C:\Users\Nikita\source\repos\fer\fer\bin\Debug\er.exe.config
+C:\Users\Nikita\source\repos\fer\fer\bin\Debug\er.exe
+C:\Users\Nikita\source\repos\fer\fer\bin\Debug\er.pdb
+C:\Users\Nikita\source\repos\fer\fer\obj\Debug\er.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\source\repos\fer\fer\obj\Debug\er.exe
+C:\Users\Nikita\source\repos\fer\fer\obj\Debug\er.pdb
